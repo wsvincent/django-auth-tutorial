@@ -4,17 +4,17 @@ Content-Transfer-Encoding: 7bit
 Subject: Password reset on 127.0.0.1:8000
 From: webmaster@localhost
 To: will@wsvincent.com
-Date: Wed, 13 Dec 2017 20:07:58 -0000
-Message-ID: <151319567891.5813.4186865716719603136@1.0.0.127.in-addr.arpa>
+Date: Mon, 22 Oct 2018 16:48:08 -0000
+Message-ID: <154022688842.8329.13335839467917011243@1.0.0.127.in-addr.arpa>
 
 
 You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
 
 Please go to the following page and choose a new password:
 
-http://127.0.0.1:8000/accounts/reset/Mg/4ry-8eca186abc010a03302d/
+http://127.0.0.1:8000/accounts/reset/MQ/50n-794b1459497cbe0ed399/
 
-Your username, in case you've forgotten: wsvincent
+Your username, in case you've forgotten: wsv
 
 Thanks for using our site!
 
