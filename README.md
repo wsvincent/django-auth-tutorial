@@ -1,5 +1,7 @@
 # Django Auth Tutorial source code
 
-- [Part 1: Login/Logout](https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/)
-- [Part 2: Signup](https://wsvincent.com/django-user-authentication-tutorial-signup/)
-- [Part 3: Password Reset](https://wsvincent.com/django-user-authentication-tutorial-password-reset/)
+Accompanies the three-part series on [LearnDjango](https://learndjango.com).
+
+- [Part 1: Login/Logout](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+- [Part 2: Signup](https://learndjango.com/tutorials/django-signup-tutorial)
+- [Part 3: Password Reset](https://learndjango.com/tutorials/django-password-reset-tutorial)
