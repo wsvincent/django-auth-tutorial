@@ -1,20 +1,21 @@
 Content-Type: text/plain; charset="utf-8"
 MIME-Version: 1.0
-Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 8bit
 Subject: Password reset on 127.0.0.1:8000
 From: webmaster@localhost
-To: will@wsvincent.com
-Date: Mon, 22 Oct 2018 16:48:08 -0000
-Message-ID: <154022688842.8329.13335839467917011243@1.0.0.127.in-addr.arpa>
+To: will@learndjango.com
+Date: Fri, 11 Sep 2020 19:20:44 -0000
+Message-ID: 
+ <159985204410.36328.18347848425987829694@1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa>
 
 
 You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
 
 Please go to the following page and choose a new password:
 
-http://127.0.0.1:8000/accounts/reset/MQ/50n-794b1459497cbe0ed399/
+http://127.0.0.1:8000/accounts/reset/MQ/aa1v2k-8ab2c9597a4f6cc754e3dc5baaf3c77f/
 
-Your username, in case you've forgotten: wsv
+Your username, in case you’ve forgotten: wsv
 
 Thanks for using our site!
 
