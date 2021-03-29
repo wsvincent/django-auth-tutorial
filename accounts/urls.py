@@ -1,8 +1,10 @@
 from django.urls import path
+from django.views.decorators.csrf import csrf_exempt
 
-from .views import SignUpView
-
+from .views import UserRegistration, LogoutAPIView ,Login
 
 urlpatterns = [
-    path('signup/', SignUpView.as_view(), name='signup'),
+    path('login/', Login),
+    path('logout/', csrf_exempt(LogoutAPIView.as_view())),
+    path('register/', csrf_exempt(UserRegistration.as_view())),
 ]
